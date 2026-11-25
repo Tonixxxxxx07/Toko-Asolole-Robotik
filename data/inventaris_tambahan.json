@@ -1,0 +1,7 @@
+[
+  {"kode": "MCU-010", "nama": "Arduino Nano", "kategori": "Mikrokontroler", "jumlah": 18, "harga": 60000, "lokasi": "Lab A"},
+  {"kode": "SNS-010", "nama": "Sensor Kelembaban Tanah", "kategori": "Sensor", "jumlah": 4, "harga": 12000, "lokasi": "Lab B"},
+  {"kode": "SNS-010", "nama": "Sensor Kelembaban Tanah", "kategori": "Sensor", "jumlah": 4, "harga": 12000, "lokasi": "Lab B"},
+  {"kode": "KBL-010", "nama": "Kabel USB Type-B", "kategori": "Kabel", "jumlah": 3.0, "harga": 15000, "lokasi": "Lab D"},
+  {"kode": "PRK-010", "nama": "Tang Potong", "kategori": "Perkakas", "jumlah": "dua", "harga": 30000, "lokasi": "Lab D"}
+]

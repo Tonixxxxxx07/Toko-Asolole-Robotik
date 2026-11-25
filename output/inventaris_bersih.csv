@@ -1,0 +1,18 @@
+kode,nama,kategori,jumlah,harga,lokasi
+MCU-001,Arduino Uno R3,Mikrokontroler,25,95000,Lab A
+MCU-002,ESP32 DevKit V1,Mikrokontroler,40,85000,Lab A
+MCU-003,Raspberry Pi 4 Model B,Mikrokontroler,8,950000,Lab A
+SNS-001,Sensor Suhu DHT22,Sensor,30,45000,Lab B
+SNS-002,Sensor Ultrasonik HC-SR04,Sensor,3,15000,Lab B
+SNS-003,Sensor Gerak PIR,Sensor,12,22000,Lab B
+ACT-001,Motor Servo SG90,Aktuator,20,18000,Lab B
+ACT-002,Relay 4 Channel,Aktuator,2,35000,Lab B
+KOM-001,Mini PC Intel NUC,Komputer,4,4500000,Lab C
+JAR-001,Switch 8 Port,Jaringan,6,180000,Lab C
+JAR-002,Router Mikrotik hAP,Jaringan,0,550000,Lab C
+PRK-001,Solder Station,Perkakas,10,275000,Lab D
+PRK-002,Multimeter Digital,Perkakas,15,120000,Lab D
+KBL-001,Kabel Jumper Male-Female,Kabel,200,500,Lab D
+SNS-004,Sensor Cahaya LDR,Sensor,50,3000,Lab B
+JAR-003,Kabel LAN Cat6 (roll),Jaringan,7,320000,Lab C
+MCU-004,STM32 Blue Pill,Mikrokontroler,6,70000,-

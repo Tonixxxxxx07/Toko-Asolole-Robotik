@@ -1,0 +1,37 @@
+LAPORAN INVENTARIS LABORATORIUM TEKNIK KOMPUTER
+Dibuat: 2026-11-25 03:31
+============================================================
+Record dibaca        : 25
+Record valid & unik  : 17
+Duplikat dibuang     : 2
+Record ditolak       : 6
+Total nilai aset     : Rp42.004.000
+
+REKAP PER KATEGORI
+KATEGORI        JENIS    UNIT       TOTAL NILAI
+-----------------------------------------------
+Aktuator            2      22         Rp430.000
+Jaringan            3      13       Rp3.320.000
+Kabel               1     200         Rp100.000
+Komputer            1       4      Rp18.000.000
+Mikrokontroler      4      79      Rp13.795.000
+Perkakas            2      25       Rp4.550.000
+Sensor              4      95       Rp1.809.000
+
+BARANG STOK KRITIS (stok <= 5)
+KODE     NAMA                        KATEGORI         JML        HARGA STATUS LOKASI
+--------------------------------------------------------------------------------------------
+JAR-002  Router Mikrotik hAP         Jaringan           0    Rp550.000 HABIS  Lab C
+ACT-002  Relay 4 Channel             Aktuator           2     Rp35.000 KRITIS Lab B
+SNS-002  Sensor Ultrasonik HC-SR04   Sensor             3     Rp15.000 KRITIS Lab B
+KOM-001  Mini PC Intel NUC           Komputer           4  Rp4.500.000 KRITIS Lab C
+
+KODE DUPLIKAT: MCU-001, SNS-001
+
+RECORD DITOLAK
+  baris 19: jumlah tidak boleh negatif (-5)
+  baris 20: kolom 'jumlah' harus angka, ditemukan 'sepuluh'
+  baris 21: kode barang kosong
+  baris 22: kategori tidak dikenal: 'elektronik rumah'
+  baris 23: kolom 'harga' harus angka, ditemukan 'abc'
+  baris 26: nama barang kosong

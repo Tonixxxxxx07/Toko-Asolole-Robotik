@@ -1,0 +1,40 @@
+{
+  "total_nilai_aset": 42004000,
+  "rekap": {
+    "Aktuator": {
+      "jenis_barang": 2,
+      "total_unit": 22,
+      "total_nilai": 430000
+    },
+    "Jaringan": {
+      "jenis_barang": 3,
+      "total_unit": 13,
+      "total_nilai": 3320000
+    },
+    "Kabel": {
+      "jenis_barang": 1,
+      "total_unit": 200,
+      "total_nilai": 100000
+    },
+    "Komputer": {
+      "jenis_barang": 1,
+      "total_unit": 4,
+      "total_nilai": 18000000
+    },
+    "Mikrokontroler": {
+      "jenis_barang": 4,
+      "total_unit": 79,
+      "total_nilai": 13795000
+    },
+    "Perkakas": {
+      "jenis_barang": 2,
+      "total_unit": 25,
+      "total_nilai": 4550000
+    },
+    "Sensor": {
+      "jenis_barang": 4,
+      "total_unit": 95,
+      "total_nilai": 1809000
+    }
+  }
+}

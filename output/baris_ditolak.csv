@@ -1,0 +1,7 @@
+baris,alasan,data_asli
+19,jumlah tidak boleh negatif (-5),"{""kode"": ""SNS-005"", ""nama"": ""Sensor Gas MQ-2"", ""kategori"": ""Sensor"", ""jumlah"": ""-5"", ""harga"": ""28000"", ""lokasi"": ""Lab B""}"
+20,"kolom 'jumlah' harus angka, ditemukan 'sepuluh'","{""kode"": ""ACT-003"", ""nama"": ""Motor Stepper NEMA17"", ""kategori"": ""Aktuator"", ""jumlah"": ""sepuluh"", ""harga"": ""150000"", ""lokasi"": ""Lab B""}"
+21,kode barang kosong,"{""kode"": """", ""nama"": ""Breadboard 830 Titik"", ""kategori"": ""Perkakas"", ""jumlah"": ""30"", ""harga"": ""25000"", ""lokasi"": ""Lab D""}"
+22,kategori tidak dikenal: 'elektronik rumah',"{""kode"": ""KOM-002"", ""nama"": ""Monitor 19 inch"", ""kategori"": ""Elektronik Rumah"", ""jumlah"": ""5"", ""harga"": ""900000"", ""lokasi"": ""Lab C""}"
+23,"kolom 'harga' harus angka, ditemukan 'abc'","{""kode"": ""PRK-003"", ""nama"": ""Obeng Set"", ""kategori"": ""Perkakas"", ""jumlah"": ""12"", ""harga"": ""abc"", ""lokasi"": ""Lab D""}"
+26,nama barang kosong,"{""kode"": ""SNS-006"", ""nama"": """", ""kategori"": ""Sensor"", ""jumlah"": ""4"", ""harga"": ""12000"", ""lokasi"": ""Lab B""}"
